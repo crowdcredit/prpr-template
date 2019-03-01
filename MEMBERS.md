@@ -5,7 +5,7 @@
  * @inabacc: <@UDCSGFQMT>
  * @Kaneda-Crowdcredit: @keishi.kaneda
  * @KeiKawano: @keikawano
- * @MasatoKawabe: @masato.kawabe
+ * @MasatoKawabe: @masatokawabe
  * @tokio-okamoto: <@U30JQB0SC>
  * @tak073: <@U6W7TLH1N>
  * @Nobuhiro-Miyata: <@U5R2Z4BNX>
@@ -15,4 +15,3 @@
  * @honobexxxxxxx: <@U30JQB0SC>
  * @mutoxxxxxxxxx: <@UBE7WJCCX>
  * @RiskTaker: <@UEBGGQT44>
- * @bak-KeiKawano: <@UBH7B61D5>
