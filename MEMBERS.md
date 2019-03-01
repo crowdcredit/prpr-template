@@ -4,7 +4,7 @@
  * @crowdcredittran: <@UB2H9TXRC>
  * @inabacc: <@UDCSGFQMT>
  * @Kaneda-Crowdcredit: <@U7Z3Y0ZFE>
- * @KeiKawano: @kei.kawano
+ * @KeiKawano: @keikawano
  * @MasatoKawabe: <@UBE9BDAB1>
  * @tokio-okamoto: <@U30JQB0SC>
  * @tak073: <@U6W7TLH1N>
