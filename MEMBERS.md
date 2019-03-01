@@ -1,11 +1,11 @@
  * @Githubのアカウント名: @Slackのアカウント名
- * @akimichiyoshida-crowdcredit: <@U4QJJ3KQX>
- * @cc-shinsato: <@U5H0DAZF0>
- * @crowdcredittran: <@UB2H9TXRC>
+ * @akimichiyoshida-crowdcredit: @akimichiyoshida
+ * @cc-shinsato: @shin.sato
+ * @crowdcredittran: @tran.quang
  * @inabacc: <@UDCSGFQMT>
- * @Kaneda-Crowdcredit: <@U7Z3Y0ZFE>
+ * @Kaneda-Crowdcredit: @keishi.kaneda
  * @KeiKawano: @keikawano
- * @MasatoKawabe: <@UBE9BDAB1>
+ * @MasatoKawabe: @masato.kawabe
  * @tokio-okamoto: <@U30JQB0SC>
  * @tak073: <@U6W7TLH1N>
  * @Nobuhiro-Miyata: <@U5R2Z4BNX>
