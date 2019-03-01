@@ -2,16 +2,15 @@
  * @akimichiyoshida-crowdcredit: @akimichiyoshida
  * @cc-shinsato: @shin.sato
  * @crowdcredittran: @tran.quang
- * @inabacc: <@UDCSGFQMT>
+ * @inabacc: @inabacc
  * @Kaneda-Crowdcredit: @keishi.kaneda
- * @KeiKawano: @keikawano
+ * @KeiKawano: @kei.kawano
  * @MasatoKawabe: @masatokawabe
- * @tokio-okamoto: <@U30JQB0SC>
- * @tak073: <@U6W7TLH1N>
- * @Nobuhiro-Miyata: <@U5R2Z4BNX>
- * @MasanariIkuta: <@UCL30DCA2>
- * @utsugia: <@U9ZNPHH3R>
- * @jollycrisostomo: <@UDRP4Q1FY>
+ * @tokio-okamoto: @tokio_okamoto
+ * @Nobuhiro-Miyata: @nobuhiro.miyata
+ * @MasanariIkuta: @masanari.ikuta
+ * @utsugia: @ai.utsugi
+ * @jollycrisostomo: @jollycrisostomo
  * @honobexxxxxxx: <@U30JQB0SC>
  * @mutoxxxxxxxxx: <@UBE7WJCCX>
  * @RiskTaker: <@UEBGGQT44>
