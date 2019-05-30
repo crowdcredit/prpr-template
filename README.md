@@ -1,3 +1,8 @@
+# [heroku](http://heroku.com/)アカウント
+
+jenkins@crowdcredit.jp / jenkins2019!
+
+
 # prpr-template
 
 A template to create and deploy your [prpr](https://github.com/mzp/prpr/) on slack.
